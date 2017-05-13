@@ -1,0 +1,26 @@
+{
+  "name": "es6-project-manager",
+  "version": "0.0.1",
+  "description": "Browser-based development environment for ES6/AMD-style modular JavaScript projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p2000te/es6-project-manager.git"
+  },
+  "keywords": [
+    "es6",
+    "webpack",
+    "browserify\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5Dbabel",
+    "webpack",
+    "browserify"
+  ],
+  "author": "Petar Temnishki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p2000te/es6-project-manager/issues"
+  },
+  "homepage": "https://github.com/p2000te/es6-project-manager#readme"
+}
